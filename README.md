@@ -11,4 +11,7 @@ This repository outlines the workflow for implementing a natural language interf
 5. **Response Generation**: Constructs a natural language response based on the SQL output.
 
 This flowchart and description represent the overall structure. Note that code is private and solely for the client’s use.
+
+---
+---
 ![Flowchart](flow_chart.png)
