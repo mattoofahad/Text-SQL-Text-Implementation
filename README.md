@@ -14,4 +14,6 @@ This flowchart and description represent the overall structure. Note that code i
 
 ---
 ---
-![Flowchart](flow_chart.png)
+<div style="text-align: center;">
+    <img src="flow_chart.png" alt="Flowchart" width="600" style="border: 2px solid red;"/>
+</div>
